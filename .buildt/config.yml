@@ -1,0 +1,23 @@
+name: movie_api
+id: 0b2ad2de-5c0f-4c89-b42a-883e879d2cbe
+languages:
+  - Python
+extensions:
+  - .py
+  - .cgi
+  - .fcgi
+  - .gyp
+  - .gypi
+  - .lmi
+  - .py3
+  - .pyde
+  - .pyi
+  - .pyp
+  - .pyt
+  - .pyw
+  - .rpy
+  - .smk
+  - .spec
+  - .tac
+  - .wsgi
+  - .xpy
